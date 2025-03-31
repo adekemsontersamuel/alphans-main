@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var modal = document.getElementById('myModal');
 
     // Get the <span> element that closes the modal
-    var span = document.getElementsByClassName('lose')[0];
+    var span = document.getElementsByClassName('close')[0];
 
     // Show the modal when the page loads
     modal.style.display = 'block';
