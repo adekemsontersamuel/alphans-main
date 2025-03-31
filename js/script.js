@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var modal = document.getElementById('myModal');
 
     // Get the <span> element that closes the modal
-    var span = document.getElementsByClassName('close')[0];
+    var span = document.getElementsByClassName('lose')[0];
 
     // Show the modal when the page loads
     modal.style.display = 'block';
@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Add event listener to the modal button (optional)
     var modalButton = document.getElementById('modalButton');
     modalButton.addEventListener('click', function() {
-        window.location.href = '/academy.html';
+        window.location.href = 'https://cityhackzonlinestore.store/';
         //alert('Button inside modal clicked!');
         // You can add more actions here
     });
